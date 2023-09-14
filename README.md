@@ -10,7 +10,7 @@
 
 **React js es una libreria de Javascripts, creada por META (facebook).**
 
-## Crear proyecto en React js
+## **Crear proyecto en React js**
 
 ```javascript
 npx create-react-app my-app
