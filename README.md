@@ -3,7 +3,7 @@
 ## Contenido
   1. [Introducción](#introducción)
   2. [Crear proyecto en React js](#crear-proyecto)
-
+  3. [Crear proyecto en Vite-React](#crear-proyecto-Vite)
 
 
 ## Introducción
@@ -24,4 +24,22 @@ npm start
 **Listo proyecto corriento**
 
 *****[⬆ vuelve hasta arriba](#contenido)*****
+
+## Crear proyecto con Vite-React
+
+```javascript
+npm create vite@latest
+```
+**Te dara opciones la cual deveras elegir React seguido de javascript**
+**Al igual deveras nombrar tu proyecto**
+
+```javascript
+cd my-proyecto
+```
+```javascript
+npm install
+```
+```javascript
+npm run dev
+```
 
