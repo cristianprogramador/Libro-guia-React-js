@@ -15,5 +15,13 @@
 ```javascript
 npx create-react-app my-app
 ```
+```javascript
+cd my-app
+```
+```javascript
+npm start
+```
+**Listo proyecto corriento**
+
 *****[⬆ vuelve hasta arriba](#contenido)*****
 
