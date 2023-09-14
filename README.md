@@ -2,7 +2,7 @@
 
 ## Contenido
   1. [Introducción](#introducción)
-  2. [Crear proyecto en React js](#crear-proyecto)
+  2. [Crear proyecto en React js](#crear-proyecto-en-React-js)
   3. [Crear proyecto en Vite-React](#crear-proyecto-Vite)
 
 
