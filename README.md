@@ -15,5 +15,5 @@
 ```javascript
 npx create-react-app my-app
 ```
-*****[⬆ vuelve hasta arriba](#contenido)*******
+*****[⬆ vuelve hasta arriba](#contenido)*****
 
