@@ -8,7 +8,7 @@
 
 ## Introducción
 
-*****React js es una libreria de Javascripts, creada por META (facebook).**
+**React js es una libreria de Javascripts, creada por META (facebook).**
 
 ## Crear proyecto en React js
 
